@@ -2,15 +2,16 @@
 This repository contains Python scripts corresponding to the examples from the book Deep Learning: A Practical Introduction. The scripts are organized by chapter, with each chapter having its own set of example scripts.
 # Structure
 The repository is structured as follows:
-•	Chapter 1:
-o	Example 1.2.1 (Perceptron rule).ipynb
-o	Example 1.2.2 (MMSE update rule of a perceptron).ipynb
-o	Example 1.3.1 (The XOR problem).ipynb
-o	Example 1.5.1 (ML vs MMSE in binary classification).ipynb
-o	Example 1.5.4 (MLP implementation on toy datasets).ipynb
-•	Chapter 2:
-o	Example 2.x.x
-o	...
+- Chapter 1:
+    - Example 1.2.1 (Perceptron rule).ipynb
+    - Example 1.2.2 (MMSE update rule of a perceptron).ipynb
+    - Example 1.3.1 (The XOR problem).ipynb
+    - Example 1.5.1 (ML vs MMSE in binary classification).ipynb
+    - Example 1.5.4 (MLP implementation on toy datasets).ipynb
+- Chapter 2:
+    - Example 2.x.x
+    - ...
+
 (Continue this structure for all 9 chapters)
 # Running the Examples
 You can run the provided Python scripts in either Google Colab or Jupyter Notebook.
@@ -26,10 +27,10 @@ Note: All packages listed in the requirements.txt are CPU-friendly.
 3.	Run the Scripts: Open the notebook cells and run the scripts as needed.
 # GPU Support
 The provided requirements.txt includes CPU versions of the deep learning libraries. If you need GPU support, please refer to the following link for instructions on installing GPU-compatible versions of the libraries:
-https://pytorch.org/get-started/locally/
-https://www.tensorflow.org/install/pip
+- https://pytorch.org/get-started/locally/
+- https://www.tensorflow.org/install/pip
 # Notes
-•	Ensure you have the appropriate versions of Python and Jupyter/Colab for compatibility.
-•	If you encounter any issues, consult the book or refer to the documentation of the respective libraries.
+- Ensure you have the appropriate versions of Python and Jupyter/Colab for compatibility.
+- If you encounter any issues, consult the book or refer to the documentation of the respective libraries.
 
 
