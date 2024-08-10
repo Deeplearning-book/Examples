@@ -20,6 +20,7 @@ You can run the provided Python scripts in either Google Colab or Jupyter Notebo
         *pip install -r requirements.txt*
   	
 Note: All packages listed in the requirements.txt are CPU-friendly.
+
 2.	Running the Scripts: Open Jupyter Notebook and navigate to the directory containing the example scripts. You can then open and run the scripts directly in the notebook.
 # Google Colab
 1.	Upload the Scripts: Upload the scripts to Google Colab, or clone the repository if you're using Colab’s integration with GitHub.
