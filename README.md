@@ -27,7 +27,7 @@ Note: All packages listed in the requirements.txt are CPU-friendly.
 1.	Upload the Scripts: Upload the scripts to Google Colab, or clone the repository if you're using Colab’s integration with GitHub.
 2.	Install Dependencies: If needed, you can install the dependencies directly within a Colab notebook cell:
 
-  	*pip install -r requirements.txt*
+  	*!pip install -r requirements.txt*
   	
 4.	Run the Scripts: Open the notebook cells and run the scripts as needed.
 # GPU Support
