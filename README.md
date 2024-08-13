@@ -17,7 +17,8 @@ The repository is structured as follows:
 You can run the provided Python scripts in either Google Colab or Jupyter Notebook.
 # Jupyter Notebook
 1.	Install Dependencies: To run the scripts in Jupyter Notebook, ensure you have the necessary dependencies installed. Use the requirements.txt file provided:
-        *pip install -r requirements.txt*
+
+  	*pip install -r requirements.txt*
   	
 Note: All packages listed in the requirements.txt are CPU-friendly.
 
@@ -25,9 +26,10 @@ Note: All packages listed in the requirements.txt are CPU-friendly.
 # Google Colab
 1.	Upload the Scripts: Upload the scripts to Google Colab, or clone the repository if you're using Colab’s integration with GitHub.
 2.	Install Dependencies: If needed, you can install the dependencies directly within a Colab notebook cell:
-        *pip install -r requirements.txt*
+
+  	*pip install -r requirements.txt*
   	
-3.	Run the Scripts: Open the notebook cells and run the scripts as needed.
+4.	Run the Scripts: Open the notebook cells and run the scripts as needed.
 # GPU Support
 The provided requirements.txt includes CPU versions of the deep learning libraries. If you need GPU support, please refer to the following link for instructions on installing GPU-compatible versions of the libraries:
 - https://pytorch.org/get-started/locally/
