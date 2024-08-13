@@ -1,5 +1,5 @@
 # Deep Learning: A Practical Introduction - Example Scripts
-This repository contains Python scripts corresponding to the examples from the book Deep Learning: A Practical Introduction. The scripts are organized by chapter, with each chapter having its own set of example scripts.
+This repository contains Python scripts corresponding to the examples from the book [**Deep Learning: A Practical Introduction**](https://www.wiley.com/en-us/Deep+Learning%3A+A+Practical+Introduction-p-9781119861881) . The scripts are organized by chapter, with each chapter having its own set of example scripts. 
 # Structure
 The repository is structured as follows:
 - Chapter 1:
